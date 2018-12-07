@@ -1,6 +1,6 @@
 {
   "name": "gapps-create-doc-from-template",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Google Apps Script function to create a Google Document or a Google Spreadsheet based on a pre-existing template",
   "keywords": [
     "gapps",
