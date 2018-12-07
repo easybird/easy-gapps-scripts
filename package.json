@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.5.1"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "0.0.32"
   }
 }
