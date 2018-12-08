@@ -1,7 +1,7 @@
 {
-  "name": "gapps-create-doc-from-template",
-  "version": "0.1.0",
-  "description": "Google Apps Script function to create a Google Document or a Google Spreadsheet based on a pre-existing template",
+  "name": "gapps-replace-doc-values",
+  "version": "0.0.0",
+  "description": "Google Apps Script function to replace values inside an existing Document App",
   "keywords": [
     "gapps",
     "google-apps-scripts",
@@ -10,11 +10,12 @@
     "typescript"
   ],
   "author": "Easybird <info@easybird.be>",
-  "homepage": "https://github.com/easybird/easy-gapps-scripts/create-doc-from-template#readme",
+  "homepage": "https://github.com/easybird/easy-gapps-helper-scripts/tree/master/packages/replace-doc-values#readme",
   "license": "MIT",
   "main": "lib/index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "__tests__"
   },
   "files": [
     "lib"
@@ -22,6 +23,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/easybird/easy-gapps-scripts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/easybird/easy-gapps-scripts/issues"
