@@ -10,7 +10,7 @@
     "typescript"
   ],
   "author": "Easybird <info@easybird.be>",
-  "homepage": "https://github.com/easybird/easy-gapps-helper-scripts#readme",
+  "homepage": "https://github.com/easybird/easy-gapps-scripts#readme",
   "license": "MIT",
   "devDependencies": {
     "lerna": "^3.5.1"

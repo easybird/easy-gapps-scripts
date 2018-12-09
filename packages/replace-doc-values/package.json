@@ -10,7 +10,7 @@
     "typescript"
   ],
   "author": "Easybird <info@easybird.be>",
-  "homepage": "https://github.com/easybird/easy-gapps-helper-scripts/tree/master/packages/replace-doc-values#readme",
+  "homepage": "https://github.com/easybird/easy-gapps-scripts/tree/master/packages/replace-doc-values#readme",
   "license": "MIT",
   "main": "lib/index.js",
   "directories": {
