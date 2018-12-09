@@ -1,6 +1,6 @@
 {
   "name": "gapps-replace-doc-values",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Google Apps Script function to replace values inside an existing Document App",
   "keywords": [
     "gapps",
